@@ -1,6 +1,6 @@
 {
     "core": {
-        "version": "2.1.0.30537"
+        "version": "2.2.0.33410"
     },
     "opt": {
         "props": {
@@ -10,6 +10,7 @@
                 "bsp_gen4",
                 "can",
                 "cat3",
+                "ccu4",
                 "ccu4_capture",
                 "ccu8",
                 "dac",
@@ -20,6 +21,7 @@
                 "i2s",
                 "kit_xmc48_relax_ecat_v1",
                 "led",
+                "low_power",
                 "mcu_gp",
                 "memory",
                 "posif",
@@ -29,6 +31,7 @@
                 "spi",
                 "sram_352k",
                 "switch",
+                "uart",
                 "usb_device",
                 "usb_host",
                 "xmc",
@@ -45,7 +48,7 @@
             "min_tools": "3.0.0",
             "template": {
                 "id": "mtb-template-cat3",
-                "version": "release-v1.0.0"
+                "version": "release-v1.2.0"
             }
         }
     }

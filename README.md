@@ -15,7 +15,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Features:
 
-* XMC4800-F144 Microcontroller based on ARM® Cortex-M4 @144MHz, integrated EtherCAT Slave Controller, 2MB Flash and 352KB RAM
+* XMC4800-F144 Microcontroller based on ARM® Cortex®-M4 @144MHz, integrated EtherCAT Slave Controller, 2MB Flash and 352KB RAM
 * On-board Debug Probe with USB interface supporting SWD + SWO
 * Detachable J-Link debugger and UART virtual COM port, with micro USB connector
 * Virtual COM Port via Debug Probe
